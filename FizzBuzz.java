@@ -9,6 +9,7 @@ public class FizzBuzz {
             else if (i % 3 ==0 ) System.out.println( "fizz");
             else System.out.println(i);
         }
+	System.out.println("salut tout le monde");
     }
 
     public static void main(String[] args) {
